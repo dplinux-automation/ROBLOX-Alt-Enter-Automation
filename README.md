@@ -12,7 +12,7 @@
   <p align="center">
     A project to make life a little easier.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Check out the tutorial video »</strong></a>
+    <a href="https://www.youtube.com/c/dp_linux"><strong>Check out the tutorial video »</strong></a>
     <br />
   </p>
 </div>
