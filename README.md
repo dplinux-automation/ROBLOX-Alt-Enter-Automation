@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/dplinux-automation/ROBLOX-Alt-Enter-Automation">
+    <img src="images/dpwhite.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ALT+ENTER AUTOMATION</h3>
